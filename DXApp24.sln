@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXApp24.Module", "DXApp24.Module\DXApp24.Module.csproj", "{AF91F983-7446-48F0-A02C-E5D6656DB51C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXApp24.Blazor.Server", "DXApp24.Blazor.Server\DXApp24.Blazor.Server.csproj", "{8333FC04-07C6-404E-BB11-7DD25CEC51FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF91F983-7446-48F0-A02C-E5D6656DB51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF91F983-7446-48F0-A02C-E5D6656DB51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF91F983-7446-48F0-A02C-E5D6656DB51C}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{AF91F983-7446-48F0-A02C-E5D6656DB51C}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{AF91F983-7446-48F0-A02C-E5D6656DB51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF91F983-7446-48F0-A02C-E5D6656DB51C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8333FC04-07C6-404E-BB11-7DD25CEC51FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8333FC04-07C6-404E-BB11-7DD25CEC51FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8333FC04-07C6-404E-BB11-7DD25CEC51FC}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{8333FC04-07C6-404E-BB11-7DD25CEC51FC}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{8333FC04-07C6-404E-BB11-7DD25CEC51FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8333FC04-07C6-404E-BB11-7DD25CEC51FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

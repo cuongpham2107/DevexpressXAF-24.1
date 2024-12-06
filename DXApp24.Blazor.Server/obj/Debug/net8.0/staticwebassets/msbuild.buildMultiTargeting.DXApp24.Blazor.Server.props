@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DXApp24.Blazor.Server.props" />
+</Project>

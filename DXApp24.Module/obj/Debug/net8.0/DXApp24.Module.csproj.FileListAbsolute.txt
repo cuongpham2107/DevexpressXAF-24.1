@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\bin\Debug\net8.0\DXApp24.Module.deps.json
+C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\bin\Debug\net8.0\DXApp24.Module.dll
+C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\bin\Debug\net8.0\DXApp24.Module.pdb
+C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\DXApp24.Module.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\DXApp24.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\DXApp24.Module.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\DXApp24.Module.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\DXApp24.Module.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\DXApp24.Module.dll
+C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\refint\DXApp24.Module.dll
+C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\DXApp24.Module.pdb
+C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\ref\DXApp24.Module.dll

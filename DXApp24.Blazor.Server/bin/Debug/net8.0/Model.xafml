@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <NavigationItems NavigationStyle="Accordion" />
+  <Options UIType="TabbedMDI" RestoreTabbedMdiLayout="False" ShowTabImage="True" />
+  <SchemaModules>
+    <SchemaModule Name="CloneObjectModule" Version="24.1.7.0" IsNewNode="True" />
+    <SchemaModule Name="SchedulerBlazorModule" Version="24.1.7.0" IsNewNode="True" />
+    <SchemaModule Name="SchedulerModuleBase" Version="24.1.7.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="24.1.7.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="Driver_ListView">
+      <Columns>
+        <ColumnInfo Id="Test" OwnerBand="@035ba8fb-27ea-45a3-8491-38e14b601e80" />
+        <ColumnInfo Id="Test2" OwnerBand="@035ba8fb-27ea-45a3-8491-38e14b601e80" />
+      </Columns>
+      <BandsLayout Enable="True">
+        <Band Id="@035ba8fb-27ea-45a3-8491-38e14b601e80" Caption="TEST0" IsNewNode="True" />
+      </BandsLayout>
+    </ListView>
+  </Views>
+</Application>

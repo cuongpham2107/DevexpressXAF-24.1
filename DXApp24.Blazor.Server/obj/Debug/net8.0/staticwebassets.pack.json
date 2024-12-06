@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\css\\cosmo\\cosmo.css",
+      "PackagePath": "staticwebassets\\css\\cosmo\\cosmo.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\css\\sketchy\\sketchy.css",
+      "PackagePath": "staticwebassets\\css\\sketchy\\sketchy.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\images\\Logo.svg",
+      "PackagePath": "staticwebassets\\images\\Logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+      "PackagePath": "staticwebassets\\images\\SplashScreen.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DXApp24.Blazor.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DXApp24.Blazor.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DXApp24.Blazor.Server.props",
+      "PackagePath": "build\\DXApp24.Blazor.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DXApp24.Blazor.Server.props",
+      "PackagePath": "buildMultiTargeting\\DXApp24.Blazor.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DXApp24.Blazor.Server.props",
+      "PackagePath": "buildTransitive\\DXApp24.Blazor.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

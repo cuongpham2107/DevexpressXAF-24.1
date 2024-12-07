@@ -9,12 +9,17 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Remove="Extension\Draft.cs" />
+    <Compile Remove="Extension\_Draft.cs" />
+  </ItemGroup>
+  <ItemGroup>
     <None Remove="Model.DesignedDiffs.xafml" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Model.DesignedDiffs.xafml" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="CsvHelper" Version="33.0.1" />
     <PackageReference Include="DevExpress.ExpressApp" Version="24.1.7" />
     <PackageReference Include="DevExpress.ExpressApp.AuditTrail.Xpo" Version="24.1.7" />
     <PackageReference Include="DevExpress.ExpressApp.CloneObject.Xpo" Version="24.1.7" />

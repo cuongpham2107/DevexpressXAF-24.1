@@ -2,5 +2,6 @@ wwwroot\css\cosmo\cosmo.css
 wwwroot\css\site.css
 wwwroot\css\sketchy\sketchy.css
 wwwroot\favicon.ico
+wwwroot\images\ASGL.png
 wwwroot\images\Logo.svg
 wwwroot\images\SplashScreen.svg

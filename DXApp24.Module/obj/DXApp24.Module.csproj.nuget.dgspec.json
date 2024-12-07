@@ -58,6 +58,10 @@
               "target": "Package",
               "version": "[1.13.1, )"
             },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            },
             "DevExpress.ExpressApp": {
               "target": "Package",
               "version": "[24.1.7, )"

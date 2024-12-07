@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DXApp24.Module")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d465d77739fcdf978db763632058019b3ebf47bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DXApp24.Module")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DXApp24.Module")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.*")]

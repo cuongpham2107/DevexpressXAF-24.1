@@ -1,11 +1,42 @@
-﻿<?xml version="1.0" ?>
-<Application Title="DXApp24">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="ASGL" Company="ASGL" Copyright="@Copyright 2024-2025" Description="Công ty vận tải" Logo="">
   <BOModel>
     <Class Name="DevExpress.Persistent.BaseImpl.PermissionPolicy.PermissionPolicyUser" Caption="Base User" />
   </BOModel>
+  <NavigationItems>
+    <Items>
+      <Item Id="Default">
+        <Items>
+          <DashboardNavigationItem Id="@d48de802-5b2a-4f2e-a8a3-9d06c97ffb82" Caption="Dashboard" IsNewNode="True" />
+          <Item Id="Event_ListView" Visible="False" Removed="True" />
+        </Items>
+      </Item>
+      <Item Id="Mail Config" ImageName="BO_Document">
+        <Items>
+          <Item Id="ConfigurationMail_ListView" ImageName="LayoutCustomization_Show" ViewId="ConfigurationMail_DetailView" />
+          <Item Id="EmailTemplate_ListView" ImageName="Action_Document_Object_Inplace" />
+        </Items>
+      </Item>
+      <Item Id="State Machine" Visible="False" />
+      <Item Id="Vi du">
+        <Items>
+          <Item Id="Division_ListView" ImageName="BO_Folder" />
+          <Item Id="Document_ListView" ImageName="BO_Folder" />
+          <Item Id="Job_ListView" ImageName="BO_Folder" />
+          <Item Id="Personnel_ListView" ImageName="BO_Folder" />
+          <Item Id="Property_ListView" ImageName="BO_Folder" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
   <Options>
     <LayoutManagerOptions RequiredFieldMark="*" />
   </Options>
+  <SchemaModules>
+    <SchemaModule Name="CloneObjectModule" Version="24.1.7.0" IsNewNode="True" />
+    <SchemaModule Name="SchedulerModuleBase" Version="24.1.7.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="24.1.7.0" IsNewNode="True" />
+  </SchemaModules>
   <Views>
     <ListView Id="ApplicationUser_ListView" Caption="Users" />
   </Views>

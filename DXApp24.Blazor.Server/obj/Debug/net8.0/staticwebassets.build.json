@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Mv71MQviLd6NPS3CfW+K5ktBPWHeGqM6JRSC1nt9N0Y=",
+  "Hash": "kk50QdJRrtSn3kDrpoXY8kLRLKXljUOlFoqCBfljZ0k=",
   "Source": "DXApp24.Blazor.Server",
   "BasePath": "_content/DXApp24.Blazor.Server",
   "Mode": "Default",
@@ -7885,8 +7885,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "t2nfkdid3o",
-      "Integrity": "lWqxHDYcMmow9I8n7IWUk+RYqtB4TjNi0yiMgzhuVNI=",
+      "Fingerprint": "05vssp0xpf",
+      "Integrity": "pGxnfZ41/DEdhCQ/e/prApiv973UZXY8eG3UodgLmLk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -7927,11 +7927,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "r1m4w9uxbn",
-      "Integrity": "n0xI2lycq8IpUAUPT1k+kV3Nf9aLRqb9yzx3MQLaAN8=",
+      "Fingerprint": "ej6jf8v1i1",
+      "Integrity": "Jpm1hVv5qpLLSkBTCv256Z3px0KSF0umnMgeCZX2qO8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\images\\ASGL.png",
+      "SourceId": "DXApp24.Blazor.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\",
+      "BasePath": "_content/DXApp24.Blazor.Server",
+      "RelativePath": "images/ASGL#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0o3oxeaqco",
+      "Integrity": "kAHZAjqhVCQ18Cd5JNEkw1ZqPGNys0m4a269IHnUoi0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ASGL.png"
     },
     {
       "Identity": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\images\\Logo.svg",
@@ -7948,8 +7969,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "pju3qj9mur",
-      "Integrity": "m6zNlucWeZyiIt0dA5CaSH7cjTHLdA3avOdHIzYkP4Y=",
+      "Fingerprint": "n8cfwlqmre",
+      "Integrity": "t58iTVDzpjpba3fqQiljfdciuOZ0ieCZYSRzmIlw2xY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Logo.svg"
@@ -7969,8 +7990,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "03px9c1q5v",
-      "Integrity": "PObAIkPm6tUhfRnf3yv3VZoaLFXeRyqbAIH63sEWKPo=",
+      "Fingerprint": "be7t52c16w",
+      "Integrity": "Tch8oUwKeQ7m5/e6hyS4+ds4Hk+09c5xB3i74WQwYoE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\SplashScreen.svg"
@@ -21861,6 +21882,51 @@
       ]
     },
     {
+      "Route": "css/site.05vssp0xpf.css",
+      "AssetFile": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pGxnfZ41/DEdhCQ/e/prApiv973UZXY8eG3UodgLmLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 13:40:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "05vssp0xpf"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pGxnfZ41/DEdhCQ/e/prApiv973UZXY8eG3UodgLmLk="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -21871,7 +21937,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "585"
+          "Value": "2971"
         },
         {
           "Name": "Content-Type",
@@ -21879,11 +21945,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lWqxHDYcMmow9I8n7IWUk+RYqtB4TjNi0yiMgzhuVNI=\""
+          "Value": "\"pGxnfZ41/DEdhCQ/e/prApiv973UZXY8eG3UodgLmLk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 08:16:29 GMT"
+          "Value": "Sat, 07 Dec 2024 13:40:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21893,52 +21959,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lWqxHDYcMmow9I8n7IWUk+RYqtB4TjNi0yiMgzhuVNI="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.t2nfkdid3o.css",
-      "AssetFile": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "585"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lWqxHDYcMmow9I8n7IWUk+RYqtB4TjNi0yiMgzhuVNI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 08:16:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "t2nfkdid3o"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lWqxHDYcMmow9I8n7IWUk+RYqtB4TjNi0yiMgzhuVNI="
+          "Value": "sha256-pGxnfZ41/DEdhCQ/e/prApiv973UZXY8eG3UodgLmLk="
         }
       ]
     },
@@ -22025,6 +22046,51 @@
       ]
     },
     {
+      "Route": "favicon.ej6jf8v1i1.ico",
+      "AssetFile": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jpm1hVv5qpLLSkBTCv256Z3px0KSF0umnMgeCZX2qO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 12:56:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ej6jf8v1i1"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jpm1hVv5qpLLSkBTCv256Z3px0KSF0umnMgeCZX2qO8="
+        }
+      ]
+    },
+    {
       "Route": "favicon.ico",
       "AssetFile": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\favicon.ico",
       "Selectors": [],
@@ -22035,7 +22101,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31444"
+          "Value": "1514"
         },
         {
           "Name": "Content-Type",
@@ -22043,11 +22109,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n0xI2lycq8IpUAUPT1k+kV3Nf9aLRqb9yzx3MQLaAN8=\""
+          "Value": "\"Jpm1hVv5qpLLSkBTCv256Z3px0KSF0umnMgeCZX2qO8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 08:16:29 GMT"
+          "Value": "Sat, 07 Dec 2024 12:56:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22057,13 +22123,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n0xI2lycq8IpUAUPT1k+kV3Nf9aLRqb9yzx3MQLaAN8="
+          "Value": "sha256-Jpm1hVv5qpLLSkBTCv256Z3px0KSF0umnMgeCZX2qO8="
         }
       ]
     },
     {
-      "Route": "favicon.r1m4w9uxbn.ico",
-      "AssetFile": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\favicon.ico",
+      "Route": "images/ASGL.0o3oxeaqco.png",
+      "AssetFile": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\images\\ASGL.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22072,19 +22138,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31444"
+          "Value": "9545"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/x-icon"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"n0xI2lycq8IpUAUPT1k+kV3Nf9aLRqb9yzx3MQLaAN8=\""
+          "Value": "\"kAHZAjqhVCQ18Cd5JNEkw1ZqPGNys0m4a269IHnUoi0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 08:16:29 GMT"
+          "Value": "Sat, 07 Dec 2024 10:13:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22094,20 +22160,57 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r1m4w9uxbn"
+          "Value": "0o3oxeaqco"
         },
         {
           "Name": "label",
-          "Value": "favicon.ico"
+          "Value": "images/ASGL.png"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-n0xI2lycq8IpUAUPT1k+kV3Nf9aLRqb9yzx3MQLaAN8="
+          "Value": "sha256-kAHZAjqhVCQ18Cd5JNEkw1ZqPGNys0m4a269IHnUoi0="
         }
       ]
     },
     {
-      "Route": "images/Logo.pju3qj9mur.svg",
+      "Route": "images/ASGL.png",
+      "AssetFile": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\images\\ASGL.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9545"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kAHZAjqhVCQ18Cd5JNEkw1ZqPGNys0m4a269IHnUoi0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 07 Dec 2024 10:13:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kAHZAjqhVCQ18Cd5JNEkw1ZqPGNys0m4a269IHnUoi0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Logo.n8cfwlqmre.svg",
       "AssetFile": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\images\\Logo.svg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22117,7 +22220,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4485"
+          "Value": "16533"
         },
         {
           "Name": "Content-Type",
@@ -22125,11 +22228,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"m6zNlucWeZyiIt0dA5CaSH7cjTHLdA3avOdHIzYkP4Y=\""
+          "Value": "\"t58iTVDzpjpba3fqQiljfdciuOZ0ieCZYSRzmIlw2xY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 08:16:29 GMT"
+          "Value": "Sat, 07 Dec 2024 13:00:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22139,7 +22242,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pju3qj9mur"
+          "Value": "n8cfwlqmre"
         },
         {
           "Name": "label",
@@ -22147,7 +22250,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-m6zNlucWeZyiIt0dA5CaSH7cjTHLdA3avOdHIzYkP4Y="
+          "Value": "sha256-t58iTVDzpjpba3fqQiljfdciuOZ0ieCZYSRzmIlw2xY="
         }
       ]
     },
@@ -22162,7 +22265,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4485"
+          "Value": "16533"
         },
         {
           "Name": "Content-Type",
@@ -22170,11 +22273,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"m6zNlucWeZyiIt0dA5CaSH7cjTHLdA3avOdHIzYkP4Y=\""
+          "Value": "\"t58iTVDzpjpba3fqQiljfdciuOZ0ieCZYSRzmIlw2xY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 08:16:29 GMT"
+          "Value": "Sat, 07 Dec 2024 13:00:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22184,12 +22287,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-m6zNlucWeZyiIt0dA5CaSH7cjTHLdA3avOdHIzYkP4Y="
+          "Value": "sha256-t58iTVDzpjpba3fqQiljfdciuOZ0ieCZYSRzmIlw2xY="
         }
       ]
     },
     {
-      "Route": "images/SplashScreen.03px9c1q5v.svg",
+      "Route": "images/SplashScreen.be7t52c16w.svg",
       "AssetFile": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22199,7 +22302,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "845"
+          "Value": "981"
         },
         {
           "Name": "Content-Type",
@@ -22207,11 +22310,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PObAIkPm6tUhfRnf3yv3VZoaLFXeRyqbAIH63sEWKPo=\""
+          "Value": "\"Tch8oUwKeQ7m5/e6hyS4+ds4Hk+09c5xB3i74WQwYoE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 08:16:29 GMT"
+          "Value": "Sat, 07 Dec 2024 13:41:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22221,7 +22324,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "03px9c1q5v"
+          "Value": "be7t52c16w"
         },
         {
           "Name": "label",
@@ -22229,7 +22332,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PObAIkPm6tUhfRnf3yv3VZoaLFXeRyqbAIH63sEWKPo="
+          "Value": "sha256-Tch8oUwKeQ7m5/e6hyS4+ds4Hk+09c5xB3i74WQwYoE="
         }
       ]
     },
@@ -22244,7 +22347,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "845"
+          "Value": "981"
         },
         {
           "Name": "Content-Type",
@@ -22252,11 +22355,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PObAIkPm6tUhfRnf3yv3VZoaLFXeRyqbAIH63sEWKPo=\""
+          "Value": "\"Tch8oUwKeQ7m5/e6hyS4+ds4Hk+09c5xB3i74WQwYoE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 06 Dec 2024 08:16:29 GMT"
+          "Value": "Sat, 07 Dec 2024 13:41:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22266,7 +22369,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PObAIkPm6tUhfRnf3yv3VZoaLFXeRyqbAIH63sEWKPo="
+          "Value": "sha256-Tch8oUwKeQ7m5/e6hyS4+ds4Hk+09c5xB3i74WQwYoE="
         }
       ]
     }

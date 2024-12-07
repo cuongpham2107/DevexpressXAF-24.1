@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\images\\ASGL.png",
+      "PackagePath": "staticwebassets\\images\\ASGL.png"
+    },
+    {
       "Id": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\images\\Logo.svg",
       "PackagePath": "staticwebassets\\images\\Logo.svg"
     },

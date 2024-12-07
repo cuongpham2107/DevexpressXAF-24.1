@@ -1,0 +1,909 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\DXApp24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\model.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\model.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\model.designeddiffs.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\model.designeddiffs.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\controllers\\customshownavigationcontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\controllers\\customshownavigationcontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\blazorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\blazorapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\templates\\custommainformtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\templates\\custommainformtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\templates\\customshownavigationitemactioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\templates\\customshownavigationitemactioncontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\extension\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\extension\\mailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\businessobjects\\configurationmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\businessobjects\\configurationmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\businessobjects\\emailtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\businessobjects\\emailtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\shared\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\shared\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\shared\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\shared\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\shared\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\shared\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\extension\\pickers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\extension\\pickers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\extension\\resources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\extension\\resources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\extension\\synchronizationcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\extension\\synchronizationcontexthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\businessobjects\\example\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\businessobjects\\example\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\businessobjects\\example\\personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\businessobjects\\example\\personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\businessobjects\\example\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\businessobjects\\example\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\businessobjects\\example\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\businessobjects\\example\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\businessobjects\\example\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\businessobjects\\example\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\extension\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\extension\\attributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\extension\\customcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\extension\\customcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\extension\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\extension\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\extension\\modelnodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\extension\\modelnodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\controllers\\samplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\controllers\\samplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\templates\\customshownavigationitemactioncontrolcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\templates\\customshownavigationitemactioncontrolcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\templates\\custommainformtemplatecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\templates\\custommainformtemplatecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\wwwroot\\images\\asgl.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\wwwroot\\images\\asgl.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\wwwroot\\images\\splashscreen.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\wwwroot\\images\\splashscreen.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\templates\\splashcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\templates\\splashcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\blazormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\blazormodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.module\\controllers\\customshownavigationcontrollercs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF91F983-7446-48F0-A02C-E5D6656DB51C}|DXApp24.Module\\DXApp24.Module.csproj|solutionrelative:dxapp24.module\\controllers\\customshownavigationcontrollercs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\templates\\custompopupwindowtemplatecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\templates\\custompopupwindowtemplatecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\templates\\customnestedframetemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\templates\\customnestedframetemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\templates\\mylogonwindowtemplatecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\templates\\mylogonwindowtemplatecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\templates\\mylogonwindowtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\templates\\mylogonwindowtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\templates\\customnestedframetemplatecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\templates\\customnestedframetemplatecomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\extension\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\extension\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\extension\\blazorlistviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\extension\\blazorlistviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\extension\\blazordashboardviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\extension\\blazordashboardviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\templates\\custompopupwindowtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\templates\\custompopupwindowtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\extension\\jshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\extension\\jshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\extension\\domaincomponentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\extension\\domaincomponentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\extension\\customizedateeditorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\extension\\customizedateeditorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\extension\\blazorpopupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\extension\\blazorpopupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|c:\\users\\admin\\source\\repos\\dxapp24\\dxapp24.blazor.server\\extension\\blazorinlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8333FC04-07C6-404E-BB11-7DD25CEC51FC}|DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj|solutionrelative:dxapp24.blazor.server\\extension\\blazorinlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\_Draft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DXApp24.Module\\Extension\\_Draft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MailHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\MailHelper.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\Extension\\MailHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\MailHelper.cs",
+              "RelativeToolTip": "DXApp24.Module\\Extension\\MailHelper.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAwwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:01:37.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomShowNavigationItemActionControl.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\CustomShowNavigationItemActionControl.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Templates\\CustomShowNavigationItemActionControl.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\CustomShowNavigationItemActionControl.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Templates\\CustomShowNavigationItemActionControl.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:41:43.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Shared\\Menu.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\Shared\\Menu.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Shared\\Menu.cs",
+              "RelativeToolTip": "DXApp24.Module\\Shared\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:20:52.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Shared\\Extension.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\Shared\\Extension.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Shared\\Extension.cs",
+              "RelativeToolTip": "DXApp24.Module\\Shared\\Extension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:21:17.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomShowNavigationControllercs.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Controllers\\CustomShowNavigationControllercs.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\Controllers\\CustomShowNavigationControllercs.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Controllers\\CustomShowNavigationControllercs.cs",
+              "RelativeToolTip": "DXApp24.Module\\Controllers\\CustomShowNavigationControllercs.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:35:31.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlazorApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\BlazorApplication.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\BlazorApplication.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\BlazorApplication.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\BlazorApplication.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIAwwCYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:09:10.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model.xafml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Model.xafml",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Model.xafml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Model.xafml",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Model.xafml",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALTSURBVDhPpZNbSFRRFIb/fS6eOaM52jgy1lhqmdpINyIogih7qB566KGCxMaXQrAeeqoIKhGCgkCQoh6KwoKaqMxCNIioTBCyi6Y1FU05jtNlbI7j3M5tt0eHwOqpPticzd5r/XutxX/wX1BKM7t/h2S\u002BM6B0RzHik9ughT0gYgiS4wwkvosQr5oJ\u002BcUMAXpxb4mxXtlKXL4DnKbOh84q5NkFxyMeyHl4n3Me/VFqvKon7ZHpDCZAWzZJyMqtQVypx2R0rW5L2M0VSVFcIoDMIkh9A4YGVDzTVYSXWie4HOljnlBwRSQWb73c7if09IbHiEXXwtCZHAeYbMGEVjCOH9UC7o/H4V8ugBbL4DUDVKNIT06WrQHZnN1KAo2LaZEzG5yQrtWEHlUwPGbiibwOI2vqEJk9iFnl55DnGIMo57JHRPACRWgwhQFvvJ/07qo07VaOOAstCCopPDLdeOneg4nSmnSL4A22zE\u002BQbedhX9gBSU7C16Vi6G4CZop/QPo81TFeT1nVRAw3XB6EtjRBtvAgiamCpkh3li47EW6DHjsIX2cKECkKC5xXOSJZA4auQ\u002BA5xFUNYd8wzHEFosiGL7A4K9PRo3jffRVv73UjFeXBZQGGqWKuY947zlZWsYfLznsDU4MtGUZyPIixwV4oo37Wq8kEn6P/UhM\u002B99xhM5iEoWnQVQNlrsq2Mlf52SkfDJ/YXWL4X5y5FS3d/KCyARJT5wQJekLBSF8HqK6BmlY43CHkz3k\u002BkRNZdFxf5Wjxbvcav4w0dqo2\u002B7ZaVXtdXXaWpwaxWKyIjLxmFfSB8AIzpobV6wo7F1QFDzXXXX\u002BZSfvTynWtT/d\u002B//7tpMFJuYmvH/BlqIedEjjy829t2rhy35EGz\u002Bh05DRp18zgcuOac\u002B5ix1Y5ixtKplQQAs1dseBwUbV95\u002B/Jaf76M6XZf6G3PPjB18wrH29eaz12LXP8G8BPoRwphdwLay4AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-06T18:50:41.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.DesignedDiffs.xafml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Model.DesignedDiffs.xafml",
+              "RelativeDocumentMoniker": "DXApp24.Module\\Model.DesignedDiffs.xafml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Model.DesignedDiffs.xafml",
+              "RelativeToolTip": "DXApp24.Module\\Model.DesignedDiffs.xafml",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALTSURBVDhPpZNbSFRRFIb/fS6eOaM52jgy1lhqmdpINyIogih7qB566KGCxMaXQrAeeqoIKhGCgkCQoh6KwoKaqMxCNIioTBCyi6Y1FU05jtNlbI7j3M5tt0eHwOqpPticzd5r/XutxX/wX1BKM7t/h2S\u002BM6B0RzHik9ughT0gYgiS4wwkvosQr5oJ\u002BcUMAXpxb4mxXtlKXL4DnKbOh84q5NkFxyMeyHl4n3Me/VFqvKon7ZHpDCZAWzZJyMqtQVypx2R0rW5L2M0VSVFcIoDMIkh9A4YGVDzTVYSXWie4HOljnlBwRSQWb73c7if09IbHiEXXwtCZHAeYbMGEVjCOH9UC7o/H4V8ugBbL4DUDVKNIT06WrQHZnN1KAo2LaZEzG5yQrtWEHlUwPGbiibwOI2vqEJk9iFnl55DnGIMo57JHRPACRWgwhQFvvJ/07qo07VaOOAstCCopPDLdeOneg4nSmnSL4A22zE\u002BQbedhX9gBSU7C16Vi6G4CZop/QPo81TFeT1nVRAw3XB6EtjRBtvAgiamCpkh3li47EW6DHjsIX2cKECkKC5xXOSJZA4auQ\u002BA5xFUNYd8wzHEFosiGL7A4K9PRo3jffRVv73UjFeXBZQGGqWKuY947zlZWsYfLznsDU4MtGUZyPIixwV4oo37Wq8kEn6P/UhM\u002B99xhM5iEoWnQVQNlrsq2Mlf52SkfDJ/YXWL4X5y5FS3d/KCyARJT5wQJekLBSF8HqK6BmlY43CHkz3k\u002BkRNZdFxf5Wjxbvcav4w0dqo2\u002B7ZaVXtdXXaWpwaxWKyIjLxmFfSB8AIzpobV6wo7F1QFDzXXXX\u002BZSfvTynWtT/d\u002B//7tpMFJuYmvH/BlqIedEjjy829t2rhy35EGz\u002Bh05DRp18zgcuOac\u002B5ix1Y5ixtKplQQAs1dseBwUbV95\u002B/Jaf76M6XZf6G3PPjB18wrH29eaz12LXP8G8BPoRwphdwLay4AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-07T10:16:58.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomMainFormTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\CustomMainFormTemplate.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Templates\\CustomMainFormTemplate.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\CustomMainFormTemplate.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Templates\\CustomMainFormTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:43:58.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Startup.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Startup.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Startup.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Startup.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAewEQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:04:55.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pickers.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\Pickers.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\Extension\\Pickers.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\Pickers.cs",
+              "RelativeToolTip": "DXApp24.Module\\Extension\\Pickers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:28:19.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resources.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\Resources.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\Extension\\Resources.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\Resources.cs",
+              "RelativeToolTip": "DXApp24.Module\\Extension\\Resources.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:29:17.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\BusinessObjects\\EmailTemplate.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\BusinessObjects\\EmailTemplate.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\BusinessObjects\\EmailTemplate.cs",
+              "RelativeToolTip": "DXApp24.Module\\BusinessObjects\\EmailTemplate.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwA0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:04:38.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigurationMail.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\BusinessObjects\\ConfigurationMail.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\BusinessObjects\\ConfigurationMail.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\BusinessObjects\\ConfigurationMail.cs",
+              "RelativeToolTip": "DXApp24.Module\\BusinessObjects\\ConfigurationMail.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAawEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:05:56.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SynchronizationContextHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\SynchronizationContextHelper.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\Extension\\SynchronizationContextHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\SynchronizationContextHelper.cs",
+              "RelativeToolTip": "DXApp24.Module\\Extension\\SynchronizationContextHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:25:22.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\BusinessObjects\\Example\\Property.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\BusinessObjects\\Example\\Property.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\BusinessObjects\\Example\\Property.cs",
+              "RelativeToolTip": "DXApp24.Module\\BusinessObjects\\Example\\Property.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:50:52.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Shared\\Enums.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\Shared\\Enums.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Shared\\Enums.cs",
+              "RelativeToolTip": "DXApp24.Module\\Shared\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:20:42.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Personnel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\BusinessObjects\\Example\\Personnel.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\BusinessObjects\\Example\\Personnel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\BusinessObjects\\Example\\Personnel.cs",
+              "RelativeToolTip": "DXApp24.Module\\BusinessObjects\\Example\\Personnel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:50:46.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\BusinessObjects\\Example\\Job.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\BusinessObjects\\Example\\Job.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\BusinessObjects\\Example\\Job.cs",
+              "RelativeToolTip": "DXApp24.Module\\BusinessObjects\\Example\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:50:35.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\BusinessObjects\\Example\\Document.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\BusinessObjects\\Example\\Document.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\BusinessObjects\\Example\\Document.cs",
+              "RelativeToolTip": "DXApp24.Module\\BusinessObjects\\Example\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:50:35.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Division.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\BusinessObjects\\Example\\Division.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\BusinessObjects\\Example\\Division.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\BusinessObjects\\Example\\Division.cs",
+              "RelativeToolTip": "DXApp24.Module\\BusinessObjects\\Example\\Division.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIAwwA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:50:09.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Attributes.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\Attributes.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\Extension\\Attributes.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\Attributes.cs",
+              "RelativeToolTip": "DXApp24.Module\\Extension\\Attributes.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAhwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:23:08.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\CustomController.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\Extension\\CustomController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\CustomController.cs",
+              "RelativeToolTip": "DXApp24.Module\\Extension\\CustomController.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAAAQwA8BAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:25:09.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\Interfaces.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\Extension\\Interfaces.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\Interfaces.cs",
+              "RelativeToolTip": "DXApp24.Module\\Extension\\Interfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:23:42.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ModelNodeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\ModelNodeController.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\Extension\\ModelNodeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\ModelNodeController.cs",
+              "RelativeToolTip": "DXApp24.Module\\Extension\\ModelNodeController.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAgwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:23:55.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "_Draft.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\_Draft.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\Extension\\_Draft.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Extension\\_Draft.cs",
+              "RelativeToolTip": "DXApp24.Module\\Extension\\_Draft.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:57:48.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomShowNavigationItemActionControlComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\CustomShowNavigationItemActionControlComponent.razor",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Templates\\CustomShowNavigationItemActionControlComponent.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\CustomShowNavigationItemActionControlComponent.razor",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Templates\\CustomShowNavigationItemActionControlComponent.razor",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T15:42:43.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SampleController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Controllers\\SampleController.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\Controllers\\SampleController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Controllers\\SampleController.cs",
+              "RelativeToolTip": "DXApp24.Module\\Controllers\\SampleController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:56:19.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\appsettings.json",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T15:23:41.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ASGL.png - PNG [745x245, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\images\\ASGL.png",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\wwwroot\\images\\ASGL.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\images\\ASGL.png - PNG [745x245, 32 bit, PNG]",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\wwwroot\\images\\ASGL.png - PNG [745x245, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-07T14:28:47.101Z",
+              "EditorCaption": " - PNG [745x245, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CustomMainFormTemplateComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\CustomMainFormTemplateComponent.razor",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Templates\\CustomMainFormTemplateComponent.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\CustomMainFormTemplateComponent.razor",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Templates\\CustomMainFormTemplateComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T15:44:42.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SplashScreen.svg",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\wwwroot\\images\\SplashScreen.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-07T12:11:48.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-07T10:12:38.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Pages\\_Host.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:10:13.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\App.razor",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\App.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\App.razor",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:58:38.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Program.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Program.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:22:37.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "favicon.ico - Icon [32x11, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\wwwroot\\favicon.ico - Icon [32x11, 32 bit, BMP]",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\wwwroot\\favicon.ico - Icon [32x11, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-12-07T13:00:32.273Z",
+              "EditorCaption": " - Icon [32x11, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\_Imports.razor",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\_Imports.razor",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:10:05.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SplashComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\SplashComponent.razor",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Templates\\SplashComponent.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\SplashComponent.razor",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Templates\\SplashComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:52:11.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BlazorModule.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\BlazorModule.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\BlazorModule.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\BlazorModule.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\BlazorModule.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:08:10.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CustomShowNavigationControllercs.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Controllers\\CustomShowNavigationControllercs.Designer.cs",
+              "RelativeDocumentMoniker": "DXApp24.Module\\Controllers\\CustomShowNavigationControllercs.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Module\\Controllers\\CustomShowNavigationControllercs.Designer.cs",
+              "RelativeToolTip": "DXApp24.Module\\Controllers\\CustomShowNavigationControllercs.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T09:35:35.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomPopupWindowTemplateComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\CustomPopupWindowTemplateComponent.razor",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Templates\\CustomPopupWindowTemplateComponent.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\CustomPopupWindowTemplateComponent.razor",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Templates\\CustomPopupWindowTemplateComponent.razor",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T14:36:26.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CustomNestedFrameTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\CustomNestedFrameTemplate.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Templates\\CustomNestedFrameTemplate.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\CustomNestedFrameTemplate.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Templates\\CustomNestedFrameTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:38:14.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BlazorListViewController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Extension\\BlazorListViewController.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Extension\\BlazorListViewController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Extension\\BlazorListViewController.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Extension\\BlazorListViewController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:29:55.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MyLogonWindowTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\MyLogonWindowTemplate.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Templates\\MyLogonWindowTemplate.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\MyLogonWindowTemplate.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Templates\\MyLogonWindowTemplate.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:33:50.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MyLogonWindowTemplateComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\MyLogonWindowTemplateComponent.razor",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Templates\\MyLogonWindowTemplateComponent.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\MyLogonWindowTemplateComponent.razor",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Templates\\MyLogonWindowTemplateComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T14:34:01.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CustomNestedFrameTemplateComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\CustomNestedFrameTemplateComponent.razor",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Templates\\CustomNestedFrameTemplateComponent.razor",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\CustomNestedFrameTemplateComponent.razor",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Templates\\CustomNestedFrameTemplateComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T14:37:10.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Extension\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Extension\\ApplicationController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Extension\\ApplicationController.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Extension\\ApplicationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:29:26.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BlazorDashboardViewController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Extension\\BlazorDashboardViewController.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Extension\\BlazorDashboardViewController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Extension\\BlazorDashboardViewController.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Extension\\BlazorDashboardViewController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:29:36.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CustomPopupWindowTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\CustomPopupWindowTemplate.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Templates\\CustomPopupWindowTemplate.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Templates\\CustomPopupWindowTemplate.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Templates\\CustomPopupWindowTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:36:58.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "JsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Extension\\JsHelper.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Extension\\JsHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Extension\\JsHelper.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Extension\\JsHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:31:46.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DomainComponentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Extension\\DomainComponentController.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Extension\\DomainComponentController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Extension\\DomainComponentController.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Extension\\DomainComponentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:31:33.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CustomizeDateEditorController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Extension\\CustomizeDateEditorController.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Extension\\CustomizeDateEditorController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Extension\\CustomizeDateEditorController.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Extension\\CustomizeDateEditorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:31:24.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BlazorPopupController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Extension\\BlazorPopupController.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Extension\\BlazorPopupController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Extension\\BlazorPopupController.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Extension\\BlazorPopupController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAewCwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:30:03.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BlazorInlineController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Extension\\BlazorInlineController.cs",
+              "RelativeDocumentMoniker": "DXApp24.Blazor.Server\\Extension\\BlazorInlineController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\Extension\\BlazorInlineController.cs",
+              "RelativeToolTip": "DXApp24.Blazor.Server\\Extension\\BlazorInlineController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:29:45.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

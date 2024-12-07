@@ -24,6 +24,7 @@ public sealed class DXApp24BlazorModule : ModuleBase {
         e.Handled = true;
     }
     public DXApp24BlazorModule() {
+
     }
     public override IEnumerable<ModuleUpdater> GetModuleUpdaters(IObjectSpace objectSpace, Version versionFromDB) {
         return ModuleUpdater.EmptyModuleUpdaters;

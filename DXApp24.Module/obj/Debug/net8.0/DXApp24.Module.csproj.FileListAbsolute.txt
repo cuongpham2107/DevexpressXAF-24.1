@@ -6,6 +6,7 @@ C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\DXApp24.Modu
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\DXApp24.Module.AssemblyInfoInputs.cache
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\DXApp24.Module.AssemblyInfo.cs
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\DXApp24.Module.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\DXApp24.Module.sourcelink.json
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\DXApp24.Module.dll
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\refint\DXApp24.Module.dll
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Module\obj\Debug\net8.0\DXApp24.Module.pdb

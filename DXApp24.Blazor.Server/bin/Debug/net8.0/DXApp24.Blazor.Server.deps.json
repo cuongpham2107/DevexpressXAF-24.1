@@ -65,6 +65,14 @@
           }
         }
       },
+      "CsvHelper/33.0.1": {
+        "runtime": {
+          "lib/net8.0/CsvHelper.dll": {
+            "assemblyVersion": "33.0.0.0",
+            "fileVersion": "33.0.1.24"
+          }
+        }
+      },
       "DevExpress.AspNetCore.Common/24.1.7": {
         "dependencies": {
           "DevExpress.AspNetCore.Core": "24.1.7",
@@ -2370,6 +2378,7 @@
       "DXApp24.Module/1.0.0": {
         "dependencies": {
           "Azure.Identity": "1.13.1",
+          "CsvHelper": "33.0.1",
           "DevExpress.ExpressApp": "24.1.7",
           "DevExpress.ExpressApp.AuditTrail.Xpo": "24.1.7",
           "DevExpress.ExpressApp.CloneObject.Xpo": "24.1.7",
@@ -2419,6 +2428,13 @@
       "sha512": "sha512-4eeK9XztjTmvA4WN+qAvlUCSxSv45+LqTMeC8XT2giGGZHKthTMU2IuXcHjAOf5VLH3wE3Bo6EwhIcJxVB8RmQ==",
       "path": "azure.identity/1.13.1",
       "hashPath": "azure.identity.1.13.1.nupkg.sha512"
+    },
+    "CsvHelper/33.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fev4lynklAU2A9GVMLtwarkwaanjSYB4wUqO2nOJX5hnzObORzUqVLe+bDYCUyIIRQM4o5Bsq3CcyJR89iMmEQ==",
+      "path": "csvhelper/33.0.1",
+      "hashPath": "csvhelper.33.0.1.nupkg.sha512"
     },
     "DevExpress.AspNetCore.Common/24.1.7": {
       "type": "package",

@@ -1,20 +1,45 @@
 ﻿using DevExpress.ExpressApp;
 using DevExpress.ExpressApp.ApplicationBuilder;
 using DevExpress.ExpressApp.Blazor;
+using DevExpress.ExpressApp.Blazor.SystemModule;
+using DevExpress.ExpressApp.Blazor.Templates;
 using DevExpress.ExpressApp.Security;
 using DevExpress.ExpressApp.Security.ClientServer;
 using DevExpress.ExpressApp.SystemModule;
+using DevExpress.ExpressApp.Templates;
 using DevExpress.ExpressApp.Xpo;
 using DXApp24.Blazor.Server.Services;
+using DXApp24.Blazor.Server.Templates;
 
 namespace DXApp24.Blazor.Server;
 
 public class DXApp24BlazorApplication : BlazorApplication {
     public DXApp24BlazorApplication() {
-        ApplicationName = "DXApp24";
+        ApplicationName = "ASGL";
         CheckCompatibilityType = DevExpress.ExpressApp.CheckCompatibilityType.DatabaseSchema;
         DatabaseVersionMismatch += DXApp24BlazorApplication_DatabaseVersionMismatch;
+
+        // TODO: đặt kích thước popup windows bằng 60% bề rộng màn hình
+        CustomizeTemplate += (s, e) => {
+            if (e.Template is IPopupWindowTemplateSize size)
+            {
+                size.MaxWidth = "60vw"; // bề rộng popup luôn bằng 60% bề rộng khuôn hình
+                //size.Width = "1000px";
+                //size.MaxHeight = "70vh";
+                //size.Height = "800px";
+            }
+        };
     }
+    protected override IFrameTemplate CreateDefaultTemplate(TemplateContext context)
+    {
+        //Top navigation
+        //if (context == TemplateContext.ApplicationWindow)
+        //{
+        //    return new CustomMainFormTemplate((IModelOptionsBlazor)Model.Options) { AboutInfoString = AboutInfo.Instance.GetAboutInfoString(this) };
+        //}
+        return base.CreateDefaultTemplate(context);
+    }
+
     protected override void OnSetupStarted() {
         base.OnSetupStarted();
 #if DEBUG

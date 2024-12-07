@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <!-- meta name="theme-color" content="#000000" -->
-    <title>DXApp24</title>
+    <title>ASGL</title>
     <base href="~/" />
     <component type="typeof(BootstrapThemeLink)" render-mode="Static" />
 </head>
@@ -33,7 +33,12 @@
         </div>
     }
     else {
-        <component type="typeof(SplashScreen)" render-mode="Static" param-Caption='"DXApp24"' param-ImagePath='"images/SplashScreen.svg"' />
+        <component 
+            type="typeof(SplashScreen)" 
+            render-mode="Static" 
+            param-Caption='"DXApp24"' 
+            param-ImagePath='"images/SplashScreen.svg"' 
+            param-ContentType="typeof(DXApp24.Blazor.Server.Templates.SplashComponent)" />
 
         <link href="_content/DevExpress.ExpressApp.Blazor/styles.css" asp-append-version="true" rel="stylesheet" />
         <link href="css/site.css" rel="stylesheet" />

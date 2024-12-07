@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ya/D9A1au9c=",
+  "dgSpecHash": "9USZOqoqHJE=",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\source\\repos\\DXApp24\\DXApp24.Blazor.Server\\DXApp24.Blazor.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.13.1\\azure.identity.1.13.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
     "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.aspnetcore.common\\24.1.7\\devexpress.aspnetcore.common.24.1.7.nupkg.sha512",
     "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.aspnetcore.core\\24.1.7\\devexpress.aspnetcore.core.24.1.7.nupkg.sha512",
     "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages\\devexpress.aspnetcore.dashboard\\24.1.7\\devexpress.aspnetcore.dashboard.24.1.7.nupkg.sha512",

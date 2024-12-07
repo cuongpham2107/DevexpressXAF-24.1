@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Views Id="Views">
+    <ListView Id="Driver_ListView">
+      <Columns Id="Columns">
+        <ColumnInfo Id="Test" OwnerBand="@035ba8fb-27ea-45a3-8491-38e14b601e80" />
+        <ColumnInfo Id="Test2" OwnerBand="@035ba8fb-27ea-45a3-8491-38e14b601e80" />
+      </Columns>
+      <BandsLayout Id="BandsLayout" Enable="True">
+        <Band Id="@035ba8fb-27ea-45a3-8491-38e14b601e80" Caption="TEST0" />
+      </BandsLayout>
+    </ListView>
+  </Views>
+</Application>

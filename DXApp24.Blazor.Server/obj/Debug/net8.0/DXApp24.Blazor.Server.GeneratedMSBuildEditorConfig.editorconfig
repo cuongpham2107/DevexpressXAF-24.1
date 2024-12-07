@@ -24,6 +24,30 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Admin/source/repos/DXApp24/DXApp24.Blazor.Server/Templates/CustomMainFormTemplateComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXEN1c3RvbU1haW5Gb3JtVGVtcGxhdGVDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DXApp24/DXApp24.Blazor.Server/Templates/CustomNestedFrameTemplateComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXEN1c3RvbU5lc3RlZEZyYW1lVGVtcGxhdGVDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DXApp24/DXApp24.Blazor.Server/Templates/CustomPopupWindowTemplateComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXEN1c3RvbVBvcHVwV2luZG93VGVtcGxhdGVDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DXApp24/DXApp24.Blazor.Server/Templates/CustomShowNavigationItemActionControlComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXEN1c3RvbVNob3dOYXZpZ2F0aW9uSXRlbUFjdGlvbkNvbnRyb2xDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DXApp24/DXApp24.Blazor.Server/Templates/MyLogonWindowTemplateComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXE15TG9nb25XaW5kb3dUZW1wbGF0ZUNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/source/repos/DXApp24/DXApp24.Blazor.Server/Templates/SplashComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = VGVtcGxhdGVzXFNwbGFzaENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Admin/source/repos/DXApp24/DXApp24.Blazor.Server/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

@@ -10,6 +10,7 @@ C:\Users\Admin\source\repos\DXApp24\DXApp24.Blazor.Server\bin\Debug\net8.0\DXApp
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Blazor.Server\bin\Debug\net8.0\DXApp24.Blazor.Server.pdb
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Blazor.Server\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Blazor.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Admin\source\repos\DXApp24\DXApp24.Blazor.Server\bin\Debug\net8.0\CsvHelper.dll
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Blazor.Server\bin\Debug\net8.0\DevExpress.AspNetCore.Common.v24.1.dll
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Blazor.Server\bin\Debug\net8.0\DevExpress.AspNetCore.Core.v24.1.dll
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Blazor.Server\bin\Debug\net8.0\DevExpress.Dashboard.v24.1.AspNetCore.dll
@@ -245,6 +246,7 @@ C:\Users\Admin\source\repos\DXApp24\DXApp24.Blazor.Server\obj\Debug\net8.0\DXApp
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Blazor.Server\obj\Debug\net8.0\DXApp24.Blazor.Server.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Blazor.Server\obj\Debug\net8.0\DXApp24.Blazor.Server.RazorAssemblyInfo.cache
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Blazor.Server\obj\Debug\net8.0\DXApp24.Blazor.Server.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\DXApp24\DXApp24.Blazor.Server\obj\Debug\net8.0\DXApp24.Blazor.Server.sourcelink.json
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Blazor.Server\obj\Debug\net8.0\scopedcss\bundle\DXApp24.Blazor.Server.styles.css
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Blazor.Server\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Admin\source\repos\DXApp24\DXApp24.Blazor.Server\obj\Debug\net8.0\staticwebassets.development.json
